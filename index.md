@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](http://insellab.ucsd.edu/wp-content/uploads/2015/07/Krishna21.jpg)
 
 ### Large image
 
