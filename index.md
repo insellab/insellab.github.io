@@ -6,6 +6,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
 
+[Test Download](https://mega.nz/#!e14y0JxL!3StDjjXtP998atHVc6D64rUDspeV47Cs-KiL3DzNki8).
+
+[Link to the lab's website](http://insellab.ucsd.edu/).
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
