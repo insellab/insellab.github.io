@@ -1,0 +1,7 @@
+---
+layout: null
+permalink: .htaccess
+---
+RewriteEngine On
+RewriteCond %{http_host} ^insellab.github.io [nc]
+RewriteRule ^(.*)$ http://insellab.github.io/$1 [r=301,nc]
