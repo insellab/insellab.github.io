@@ -1,4 +1,4 @@
-AuthUserFile insellab/insellab.github.io/.htpasswd
+AuthUserFile insellab.github.io/.htpasswd
 AuthName "Please Log In"
 AuthType Basic
 Require valid-user
