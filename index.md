@@ -2,6 +2,16 @@
 layout: default
 ---
 
+# [](#header-1)Welcome to the Insel Lab GPCRs in Cancer Resource
+
+To cite this work, please cite **ALL** of the following:
+
+1. Sriram, K. Moyung, K. Insel, PA. GPCRs in Cancer. Cell, insert text here
+2. TCGA Paper
+3. GTEX Paper
+4. TOIL Paper
+5. IUPHAR GPCRs Paper
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
