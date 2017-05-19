@@ -4,10 +4,10 @@ layout: default
 
 ## Cancer Types
 
-A list of all cancers surveyed:
+A list of all **cancers** surveyed:
 
 
-A list of all normal tissues surveyed: 
+A list of all **normal tissues** surveyed: 
 
 
 These tables can be downloaded here:
