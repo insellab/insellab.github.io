@@ -125,7 +125,8 @@ header li {
   width:89px;
   float:left;
   border-right:1px solid #e0e0e0;
-  height:50px;
+  border-bottom:1px solid #e0e0e0;
+  height:55px;
 }
 
 header li:first-child a {
@@ -258,7 +259,7 @@ footer {
     width:99%;
   }
 
-  header li, header ul li + li + li {
+  header li, header ul li + li + li + li + li + li + li + li + li + li + li {
     width:33%;
   }
 }
