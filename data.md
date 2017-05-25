@@ -4,6 +4,14 @@ layout: default
 
 ## Data
 
+|               Cancer Type               |          Histology/Subtype          | three |
+|:----------------------------------------|:------------------------------------|:------|
+|          Adrenocortical Cancer          | good swedish fish                   | nice  |
+| out of stock                 | good and plenty                     | nice  |
+| ok                           | good `oreos`                        | hmm   |
+| ok                           | good `zoute` drop                   | yumm  |
+
+
 ![](https://insellab.github.io/Picture1.jpg)
 
 This page will be the main page for users to download our data. 
