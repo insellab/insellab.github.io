@@ -23,6 +23,9 @@ layout: default
 |                                       |                                     |       |            |            |
 | Kidney Papillary Cell Carcinoma (KIRP) |                                     |       |            |            |
 | Kidney Clear Cell Carcinoma (KIRC)    |                                     |       |            |            |
+| Kidney Chromophobe (KICH)             |                                     |       |            |            |
+| Liver Cancer (LIHC)                   |                                     |       |            |            |
+| Lung  Adenocarcinoma (LUAD)           |                                     |       |            |            |
 
 
 ![](https://insellab.github.io/Picture1.jpg)
