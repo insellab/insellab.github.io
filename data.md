@@ -4,12 +4,12 @@ layout: default
 
 ## Data
 
-|               Cancer Type               |          Histology/Subtype          | three |
-|----------------------------------------|:------------------------------------|:------|
-|          Adrenocortical Cancer          | good swedish fish                   | nice  |
-| out of stock                 | good and plenty                     | nice  |
-| ok                           | good `oreos`                        | hmm   |
-| ok                           | good `zoute` drop                   | yumm  |
+|               Cancer Type               |          Histology/Subtype        | # of Replicates | # of GPCRs ↑ | # of GPCRs ↓ | 
+|----------------------------------------|------------------------------------|-----------------|--------------|--------------|
+|          Adrenocortical Cancer (ACC)         | good swedish fish                   | nice  |
+| Bladder Cancer (BLCA)                 | good and plenty                     | nice  |
+|                                       | good `oreos`                        | hmm   |
+| Breast Cancer (BRCA)                  | good `zoute` drop                   | yumm  |
 
 
 ![](https://insellab.github.io/Picture1.jpg)
