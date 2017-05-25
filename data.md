@@ -6,10 +6,23 @@ layout: default
 
 |               Cancer Type               |          Histology/Subtype        | # of Replicates | # of GPCRs ↑ | # of GPCRs ↓ | 
 |----------------------------------------|------------------------------------|-----------------|--------------|--------------|
-|          Adrenocortical Cancer (ACC)         | good swedish fish                   | nice  |
+|          Adrenocortical Cancer (ACC)         | good swedish fish                   | nice  |              |           |
 | Bladder Cancer (BLCA)                 | good and plenty                     | nice  |
 |                                       | good `oreos`                        | hmm   |
 | Breast Cancer (BRCA)                  | good `zoute` drop                   | yumm  |
+|                                       |                                     |       |            |            |
+|                                       |                                     |       |            |            |
+|                                       |                                     |       |            |            |
+|                                       |                                     |       |            |            |
+| Cervical Cancer (CESC)                |                                     |       |            |            |
+|                                       |                                     |       |            |            |
+|                                       |                                     |       |            |            |
+| Colon Cancer (COAD)                   |                                     |       |            |            |
+|                                       |                                     |       |            |            |
+| Esophageal Cancer (ESCA)              |                                     |       |            |            |
+|                                       |                                     |       |            |            |
+| Kidney Papillary Cell Carcinoma (KIRP) |                                     |       |            |            |
+| Kidney Clear Cell Carcinoma (KIRC)    |                                     |       |            |            |
 
 
 ![](https://insellab.github.io/Picture1.jpg)
