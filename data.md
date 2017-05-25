@@ -4,7 +4,7 @@ layout: default
 
 ## Data
 
-![](insellab.github.io/Picture1.jpg)
+![](https://insellab.github.io/Picture1.jpg)
 
 This page will be the main page for users to download our data. 
 A list of all **target GPCRs annotated by IUPHAR:**
