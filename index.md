@@ -8,7 +8,7 @@ layout: default
 
 ### To cite this work, please refer to:
 
-> **GPCRs show frequent mutation, copy number variation and differential mRNA expression in solid tumors. Sriram K, Moyung K, Insel PA.     2017. Cell _____**
+> *GPCRs show frequent mutation, copy number variation and differential mRNA expression in solid tumors. Sriram K, Moyung K, Insel PA.     2017. Cell _____*
 
 * * *
 
