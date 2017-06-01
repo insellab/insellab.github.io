@@ -4,7 +4,7 @@ layout: default
 
 # [](#header-1)Welcome to the Insel Lab GPCRs in Cancer Resource
 
-## To cite this work, please refer to:
+### To cite this work, please refer to:
 
 GPCRs show frequent mutation, copy number variation and differential mRNA expression in solid tumors.  
 Sriram K, Moyung K, Insel PA. 2017. Cell _____
