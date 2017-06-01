@@ -8,13 +8,13 @@ layout: default
 
 ### To cite this work, please refer to:
 
-> GPCRs show frequent mutation, copy number variation and differential mRNA expression in solid tumors. Sriram K, Moyung K, Insel PA.     2017. Cell _____
+> **GPCRs show frequent mutation, copy number variation and differential mRNA expression in solid tumors. Sriram K, Moyung K, Insel PA.     2017. Cell _____**
 
 * * *
 
 This analysis is a secondary analysis based on the work of multiple groups, including: the **UCSC Xena Project** ([https://xena.ucsc.edu](https://xena.ucsc.edu)), **The Cancer Genome Atlas** (TCGA, [https://cancergenome.nih.gov/](https://cancergenome.nih.gov/)), **The Genotype-Tissue Expression Database** (GTEX, [https://gtexportal.org/home/](https://gtexportal.org/home/)), and using data on classification and characterization of GPCRs hosted by **IUPHAR** ([http://www.guidetopharmacology.org/GRAC/ReceptorFamiliesForward?type=GPCR](http://www.guidetopharmacology.org/GRAC/ReceptorFamiliesForward?type=GPCR)).
 
-*If using data generated as part of this study, please cite the following:*
+*If using data generated as part of this study, in addition to our paper, please cite the following:*
 
 * Vivian, J., Rao, A. A., Nothaft, F. A., Ketchum, C., Armstrong, J., Novak, A., ... & Schmidt, H. (2017). Toil enables reproducible, open   source, big biomedical data analyses. Nature biotechnology, 35(4), 314.
 * Consortium, T. G. (2013). The genotype-tissue expression (GTEx) project. Nature genetics, 45(6), 580.
