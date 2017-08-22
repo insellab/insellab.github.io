@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Copy number variation for GPCRs in each TCGA tumor type, based on GISTIC 2.0 thresholded data compiled at the 
+### Copy number variation for GPCRs in each TCGA tumor type, based on GISTIC 2.0 thresholded data compiled at the [UCSC Xena Portal](http://xena.ucsc.edu/)
 
 
 Files are plotted in Excel with X and Y coordinates for each point/sample on the MDS plots, along with sample IDs are provided
