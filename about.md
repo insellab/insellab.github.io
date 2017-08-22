@@ -19,7 +19,8 @@ kmoyung(at)ucsd.edu
 (858) 534-2298; rcorriden(at)ucsd.edu
 
 
-![](http://vignette2.wikia.nocookie.net/rickandmorty/images/1/1e/Rick_and_morty_icon.png/revision/latest?cb=20150805041642)
+![](http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14673543/U4.cp2.1_nature01307-f1.2.jpg)
+(*nature.com*)
 
 **Lab Website**: [Website](http://insellab.ucsd.edu/)
 
