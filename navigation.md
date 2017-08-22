@@ -30,7 +30,13 @@ Status (whether mutated or not, indicated as a 1 or 0) for each GPCR in each TCG
 
 Copy Number Variation for each GPCR in each TCGA sample, in each TCGA tumor type.
 
-GPCR expression in solid tumors: GPCR expression in TPM and CPM units for each GPCR in each TCGA sample, in each TCGA tumor type. 
+[GPCR expression in solid tumors](https://insellab.github.io/gpcr_tcga_exp): 
 
-Questions regarding datasets etc should be directed to website admin at ____ and will be handled asap by either Krishna or Kevin.
+GPCR expression in TPM and CPM units for each GPCR in each TCGA sample, in each TCGA tumor type. 
+
+[GPCR expression in normal tissue](https://insellab.github.io/gpcr_tcga_exp): 
+
+GPCR expression in TPM and CPM units for each GPCR in each GTEX sample, in each normal GTEX tissue type. 
+
+Questions regarding datasets etc should be directed to website admin at *insellabgpcrsincancer1[AT]gmail.com* and will be addressed asap by either Krishna or Kevin.
 
