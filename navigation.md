@@ -34,7 +34,11 @@ Copy Number Variation for each GPCR in each TCGA sample, in each TCGA tumor type
 
 GPCR expression in TPM and CPM units for each GPCR in each TCGA sample, in each TCGA tumor type. 
 
-[GPCR expression in normal tissue](https://insellab.github.io/gpcr_tcga_exp): 
+[GPCR expression in normal tissue](https://insellab.github.io/gpcr_gtex_exp): 
+
+GPCR expression in TPM and CPM units for each GPCR in each GTEX sample, in each normal GTEX tissue type. 
+
+[Differential Expression between tumors and normal tissue](https://insellab.github.io/gpcr_gtex_exp): 
 
 GPCR expression in TPM and CPM units for each GPCR in each GTEX sample, in each normal GTEX tissue type. 
 
