@@ -6,7 +6,9 @@ layout: default
 
 Files are plotted in Excel with X and Y coordinates for each point/sample on the MDS plots. These plots provide information about how closely or diffusely groups of samples cluster together, viz. gene expression. A useful primer on the principle of multidimensional scaling can be found [here](http://www.analytictech.com/borgatti/mds.htm).
 
-Information about samples (tumor subtype, whether primary tumor or matched normal etc.) are also provided as needed
+Information about samples (tumor subtype, whether primary tumor or matched normal etc.) are also provided as needed.
+
+The tumor types below include tumor subtypes as described in [Table 1](https://insellab.github.io/Picture1.jpg), e.g. the file with Breast Cancer IDC includes Her2+, Hormone Receptor+, Triple + and Triple - subtypes of BRCA IDC.
 
 [Adrenocortical Cancer and Adrenal Gland](https://drive.google.com/open?id=0ByccgsfmD86PMUh1TjVPR2tuZjQ) 
 
