@@ -5,7 +5,7 @@ layout: default
 ### Copy number variation for GPCRs in each TCGA tumor type, based on GISTIC 2.0 thresholded data compiled at the [UCSC Xena Portal](http://xena.ucsc.edu/)
 
 
-For information on Gistic 2.0, please visit [here]().
+For information on Gistic 2.0, please visit [here](https://software.broadinstitute.org/software/cprg/?q=node/31).
 
 For these 'thresholded' data -2, -1, 0, 1 and 2 indicate respectively Homozygous deletion, Heterozygous (single-copy) deletion, Diploid Normal Copies, Low-level amplification and High-level amplification. 
 
