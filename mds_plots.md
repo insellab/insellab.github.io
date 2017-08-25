@@ -34,7 +34,7 @@ The tumor types below include tumor subtypes as described in [Table 1](https://i
 
 [Lung Adenocarcinoma and Lung](https://drive.google.com/open?id=0ByccgsfmD86PUVVyTHRSMmhKSVU)
 
-[Lung Squamous Cell Carcinoma](https://drive.google.com/open?id=0ByccgsfmD86PT2ZMb3VYYTZsaU0)
+[Lung Squamous Cell Carcinoma and Lung](https://drive.google.com/open?id=0ByccgsfmD86PT2ZMb3VYYTZsaU0)
 
 [Skin Cutaneous Melanoma and Sun-exposed skin](https://drive.google.com/open?id=0ByccgsfmD86PWUcwV21QXzRValk)
 
@@ -50,7 +50,7 @@ The tumor types below include tumor subtypes as described in [Table 1](https://i
 
 [Thyroid Cancer and Thyroid](https://drive.google.com/open?id=0ByccgsfmD86PN2J4Z0pmWkpSZnM)
 
-[Uterine Carcinosarcoma](https://drive.google.com/open?id=0ByccgsfmD86PU3FFeENsUS1vMGM)
+[Uterine Carcinosarcoma and Uterus](https://drive.google.com/open?id=0ByccgsfmD86PU3FFeENsUS1vMGM)
 
 
 
