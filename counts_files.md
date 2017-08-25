@@ -2,4 +2,6 @@
 layout: default
 ---
 
-## Mutation data for all GPCRs in each TCGA cancer type are in the links below. 
+## Counts files for performing Differential Expression (DE) analysis. 
+
+These files contain organized counts data, calculated as RSEM estimated counts via the [TOIL](https://xenabrowser.net/datapages/?host=https://toil.xenahubs.net) pipeline. The original, 'raw' processed counts data are hosted at [Xena](xena.ucsc.edu)
