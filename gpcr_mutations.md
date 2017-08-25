@@ -10,7 +10,7 @@ layout: default
 
 *2. **Occurence of all somatic mutation events in each tumor sample.** Indicates the type and location of mutations. A gene may be mutated multiple times in the same tumor, hence number of mutation events will typically > number of tumors that show a mutation to a particular gene, as tabulated for 'a' above.*
 
-These data were compiled from TCGA mutation data, hosted at ([https://xena.ucsc.edu](https://xena.ucsc.edu)).
+These data were compiled from TCGA mutation data, hosted at ([https://xena.ucsc.edu](https://xena.ucsc.edu)). The specific source for mutation data for each tumor (sequencing center and analysis pipeline) are indicated in [Table 2]().
 
 
 
