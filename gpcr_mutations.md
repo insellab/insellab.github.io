@@ -12,7 +12,7 @@ layout: default
 
 These data were compiled from TCGA mutation data, hosted at ([https://xena.ucsc.edu](https://xena.ucsc.edu)).
 
-The tumor types below include those listed in [Table 2](https://insellab.github.io/Picture1.jpg).
+
 
    
 #
