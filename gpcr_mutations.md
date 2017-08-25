@@ -19,7 +19,7 @@ The tumor types below include those listed in [Table 2](https://insellab.github.
 
    
 
-## Somatic Non-silent mutations
+## 1. Somatic Non-silent mutations
 
 
 [Adrenocortical Cancer and Adrenal Gland](https://drive.google.com/open?id=0ByccgsfmD86PMUh1TjVPR2tuZjQ) 
@@ -67,7 +67,7 @@ The tumor types below include those listed in [Table 2](https://insellab.github.
 
 #
 
-## Somatic Mutations events
+## 2. Somatic Mutations events
 
 [Adrenocortical Cancer and Adrenal Gland](https://drive.google.com/open?id=0ByccgsfmD86PMUh1TjVPR2tuZjQ) 
 
