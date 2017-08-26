@@ -6,7 +6,7 @@ layout: default
 
 ### Two file types are provided:
 
-*1. **Presence of somatic, non silent mutations for each gene, in each tumor sample.** If a gene is mutated in a tumor, the corresponding entry will show a '1', or '0' if not mutated. This data allows estimation of the number of tumors that show a non-silent mutation for a specific gene, in a specific tumor type.*
+*1. **Tumors that possess Somatic Non-silent mutations for GPCRs, in each cancer type.** If a gene is mutated in a tumor, the corresponding entry will show a '1', or '0' if not mutated. This data allows estimation of the number of tumors that show a non-silent mutation for a specific gene, in a specific tumor type.*
 
 *2. **Occurence of all somatic mutation events in each tumor sample.** Indicates the type and location of mutations. A gene may be mutated multiple times in the same tumor, hence number of mutation events will typically > number of tumors that show a mutation to a particular gene, as tabulated for 'a' above.*
 
@@ -19,7 +19,9 @@ These data were compiled from TCGA mutation data, hosted at ([https://xena.ucsc.
 
    
 
-## 1. Somatic Non-silent mutations
+## 1. Tumors that possess Somatic Non-silent mutations
+
+
 
 
 [Adrenocortical Cancer](https://drive.google.com/open?id=0ByccgsfmD86PMUh1TjVPR2tuZjQ) 
@@ -65,7 +67,17 @@ These data were compiled from TCGA mutation data, hosted at ([https://xena.ucsc.
 
 #
 
-## 2. Somatic Mutations events
+## 2. Occurence of all Somatic Mutation events
+
+Each file contains 3 worksheets. 
+
+1. Annotated log of all detected mutation events, including the identity of the mutated gene and the type and location of the mutation, plus whether or not the mutated gene is a GPCR.
+
+2. For GPCRs mutations, the number of mutation events of different types (e.g. missense or nonsense mutations) encountered within that particular tumor type.
+
+3. Since Missense mutations are the most commonly occurring type of GPCR mutation, the frequency with which these mutations occur is quantified for each GPCR in each individual tumor sample. This can be easily modified or expanded to other types of mutation by modifying the lookup function within the worksheet.
+
+
 
 [Adrenocortical Cancer](https://drive.google.com/open?id=0ByccgsfmD86PMUh1TjVPR2tuZjQ) 
 
