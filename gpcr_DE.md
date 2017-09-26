@@ -18,5 +18,5 @@ These data are also available in [Supplement 3]().
 
 Changes in expression are considered meaningful if fold changes > 2 fold (increase or decrease), FDR < 0.05 and median expression in tumors > 1 TPM.
 
-A list of targets for FDA-approved drugs was obtained from the [Human Protein Atlas](http://www.proteinatlas.org/search/protein_class:FDA+approved+drug+targets)
+
 
