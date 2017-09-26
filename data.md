@@ -10,7 +10,7 @@ layout: default
 
 * * *
 
-This page will be the main page for users to download our data. 
+
 A list of all **target GPCRs annotated by IUPHAR:**
 
 
