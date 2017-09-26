@@ -21,8 +21,10 @@ This list includes synonyms for Hg19, used for TCGA mutation analysis, and for C
 
 A master file showing **fold changes and magnitude of expression** of GPCRs in various tumors:
 
-(link will be activated once our paper completes peer review)
-[GPCR Expression Master File](https://drive.google.com/a/ucsd.edu/file/d/0B2LcGihi6iUWNEFhendLNmVHemM/view?usp=sharing).
+\
 
+
+[GPCR Expression Master File](https://drive.google.com/a/ucsd.edu/file/d/0B2LcGihi6iUWNEFhendLNmVHemM/view?usp=sharing).
+### (link will be activated once our paper completes peer review)
 
 [back](./)
