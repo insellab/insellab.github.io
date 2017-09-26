@@ -10,11 +10,11 @@ For specific downloadable data, use either the menu on the left, or the links be
 
 Please note that in all of these files, we use the same gene names as in the ‘source’ data, i.e. Hg19 gene names for mutations analysis, similar gene names for CNV corresponding to Affy SNP 6.0 arrays and GRC38 gene names for gene expression. GRC38 gene names used in expression analysis correspond to those currently used by IUPHAR. A table providing GPCR gene aliases used in each data set is provided in supplement 2 and also [here](https://drive.google.com/open?id=0ByccgsfmD86PbFd5R29paUQ4LUE). 
 
-[Supplement 2](https://www.youtube.com/): 
+[Supplement 2 (will be activated after peer review is complete)]( ): 
 
 Data supplement from our paper, containing totals for numbers of tumors with GPCR mutations, number of GPCR mutation events, frequency of GPCR CNV and also annotation of which genes we included in this analysis as ‘GPCRs’, along with appropriate synonyms.
 
-[Supplement 3](https://www.youtube.com/): 
+[Supplement 3 (will be activated after peer review is complete)]( ): 
 
 Data supplement from our paper containing median gene expression in TPM and CPM for each tumor and normal tissue type.
 
