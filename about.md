@@ -18,6 +18,10 @@ kmoyung(at)ucsd.edu
 **Contributing Author**: *Ross Corriden Ph.D.*, Project Scientist, Department of Pharmacology at UC San Diego  
 (858) 534-2298; rcorriden(at)ucsd.edu
 
+**Contributing Author**: *Hannah Carter Ph.D.*, Assistant Professor, Department of Medicine at UC San Diego  
+(858) 822-4706; hkcarter(at)ucsd.edu
+
+
 
 ![](http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/14673543/U4.cp2.1_nature01307-f1.2.jpg)
 (*nature.com*)
