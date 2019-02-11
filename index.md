@@ -8,7 +8,7 @@ layout: default
 
 ### To cite this work, please refer to:
 
-> *GPCRs show widespread differential mRNA expression and frequent mutation and copy number variation in solid tumors. Sriram K, Moyung K, Corriden R, Carter H, Insel PA.     2018. doi: 10.1101/546481*
+> *GPCRs show widespread differential mRNA expression and frequent mutation and copy number variation in solid tumors. Sriram K, Moyung K, Corriden R, Carter H, Insel PA.     2019. doi: 10.1101/546481*
 
 Access our preprint [here](https://www.biorxiv.org/content/10.1101/546481v1).
 
