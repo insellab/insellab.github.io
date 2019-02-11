@@ -7,6 +7,8 @@ layout: default
 
 For information on Gistic 2.0, please visit [here](https://software.broadinstitute.org/software/cprg/?q=node/31).
 
+A summarized version of CNV data can be found in [Supplement 2](https://drive.google.com/open?id=1ROW2FWvDYlP7w5n-qMR8KMapnjkD2Ta9).
+
 For these 'thresholded' data -2, -1, 0, 1 and 2 indicate respectively Homozygous deletion, Heterozygous (single-copy) deletion, Diploid Normal Copies, Low-level amplification and High-level amplification. 
 
 [Adrenocortical Cancer](https://drive.google.com/open?id=0ByccgsfmD86PMUh1TjVPR2tuZjQ) 
