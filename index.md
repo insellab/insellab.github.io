@@ -8,7 +8,7 @@ layout: default
 
 ### To cite this work, please refer to:
 
-> *The landscape of GPCR expression, mutation and copy number variation in solid tumors. Sriram K, Moyung K, Corriden R, Carter H, Insel PA.     2018. _____*
+> *GPCRs show widespread differential mRNA expression and frequent mutation and copy number variation in solid tumors. Sriram K, Moyung K, Corriden R, Carter H, Insel PA.     2018. _____*
 
 * * *
 
