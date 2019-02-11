@@ -6,9 +6,9 @@ layout: default
 
 For each type of tumor, the extent of DE for GPCRs, determined via EdgeR. Included are fold changes and statistical significance in terms of False Discovery Rate (FDR).
 
-### These links will become active once our paper has completed peer review
+These data are available in [Supplement 3](https://drive.google.com/open?id=1ROW2FWvDYlP7w5n-qMR8KMapnjkD2Ta9).
 
-These data are also available in [Supplement 3]().
+### Additional links will become active once our paper has completed peer review
 
 [DE of all GPCRs in each tumor type]()
 
