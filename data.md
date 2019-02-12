@@ -19,12 +19,11 @@ A list of all **target GPCRs annotated by IUPHAR:**
 This list includes synonyms for Hg19, used for TCGA mutation analysis, and for CNV.
 
 
-A master file showing **fold changes and magnitude of expression** of GPCRs in various tumors:
-
-\
+[Supplement 2](https://drive.google.com/open?id=1ROW2FWvDYlP7w5n-qMR8KMapnjkD2Ta9) contains information about which GPCR genes are included in our analysis, the number of GPCRs with non-silent mutations in each TCGA tumor type and the frequency of GPCR Copy-number variation (CNV) in each tumor type.
 
 
-[GPCR Expression Master File](https://drive.google.com/a/ucsd.edu/file/d/0B2LcGihi6iUWNEFhendLNmVHemM/view?usp=sharing).
-### (link will be activated once our paper completes peer review)
+[Supplement 3](https://drive.google.com/open?id=1Fdps90G7j2A3vb24L3ikICADZ-7fIjiC) contains a master file showing fold changes and magnitude of expression of GPCRs in various tumors, corresponding expression in normal tissue and GPCR expression in cancer cell lines, from the [CCLE](https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2770/Results) and [Genetech](https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2706/Results) studies hosted at the [EBI expression atlas](https://www.ebi.ac.uk/gxa/home).
+
+
 
 [back](./)
