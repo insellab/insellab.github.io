@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Cancer Types and subtypes surveyed
+## Cancer types and subtypes surveyed for DE analysis
 
-![](https://insellab.github.io/Picture1.jpg)
+![](https://insellab.github.io/Picture2.jpg)
 
 [Download](https://insellab.github.io/Picture1.jpg)
 
