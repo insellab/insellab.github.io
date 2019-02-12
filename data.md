@@ -6,7 +6,7 @@ layout: default
 
 ![](https://insellab.github.io/Picture2.jpg)
 
-[Download](https://insellab.github.io/Picture1.jpg)
+For each tumor type, the number of GPCRs either increased or decreased in expression compared against normal tissue is indicated, along with the number of tumor replicates. For 'N's for normal tissue, refer [Supplement 1](https://drive.google.com/open?id=1fvKFBhpNL4Nl_g5Be5b3O6FWHxHpU8C3), **Table S2**.
 
 * * *
 
