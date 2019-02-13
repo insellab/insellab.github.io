@@ -75,43 +75,47 @@ Certain samples highlighted in yellow were not included for other analyses (such
 Each file contains GPCR expression in CPM for every GPCR gene in every sample, grouped together based on tumor subtype or as normal samples. Median expression of GPCRs in tumor subtypes are also provided.
 
 
-[Adrenocortical Cancer (ACC)]()
+[Adrenocortical Cancer (ACC)](https://drive.google.com/open?id=1yyshfsWALatVLxLQb8mVsIs7-RF3CFQb)
 
-[Bladder Adenocarcinoma (BLCA)]()
+[Bladder Adenocarcinoma (BLCA)](https://drive.google.com/open?id=1TzzG50YuUqEAvzauC8bIztuGxHtQ5UA-)
 
-[Breast Adenocarcinoma (BRCA)]()
+[Breast Adenocarcinoma (BRCA) Invasive Ductal Carcinoma (IDC)](https://drive.google.com/open?id=1mDQllfyjigBUNhU5mn8b5VNv9Waw9YOE)
 
-[Cervical Cancer (CESC)]()
+[Breast Adenocarcinoma (BRCA) Invasive Lobular Carcinoma (ILC)](https://drive.google.com/open?id=1z5FiSl9P7xc-QXF3a8K2izeOCzwq8SNG)
 
-[Colon Adenocarcinoma (COAD)]()
+[Cervical Cancer (CESC)](https://drive.google.com/open?id=1-dsbKxa-OrhrfXv4VlM868GYOiqmeSgY)
 
-[Esophageal Cancer (ESCA)]()
+[Colon Adenocarcinoma (COAD)](https://drive.google.com/open?id=1s84ePCdAKT7sloS_SSQnXn8s9LeIfgmN)
 
-[Kidney Chromophobe (KICH)]()
+[Esophageal Cancer (ESCA)](https://drive.google.com/open?id=18E0u1b1NcIMnk3qg-uK7nF5ATmDZEpGX)
 
-[Kidney Clear Cell Carcinoma (KIRC)]()
+[Kidney Chromophobe (KICH)](https://drive.google.com/open?id=1rzG8UyqcLgG0kMSY0NT9aHoy6T94tXys)
 
-[Kidney Renal Papillary Cell Carcinoma (KIRP)]()
+[Kidney Clear Cell Carcinoma (KIRC)](https://drive.google.com/open?id=1_T1Ci3EmgUKOTE29S9FEUYUaM52DOefA)
 
-[Liver Hepatocellular Carcinoma(LIHC)]()
+[Kidney Renal Papillary Cell Carcinoma (KIRP)](https://drive.google.com/open?id=1x61ETr5sxOab8XUdrlCe-lxG1TSmGaHP)
 
-[Lung Squamous Cell Carcinoma and Adenocarcinoma (LUSC and LUAD)]()
+[Liver Hepatocellular Carcinoma(LIHC)](https://drive.google.com/open?id=1YcflpSu2BvWQzfQNCSSWVCJ2LUeAl9TA)
 
-[Ovarian Serous Cystadenocarcinoma (OV)]()
+[Lung Squamous Cell Carcinoma (LUSC)](https://drive.google.com/open?id=1z5xHVqExuGLKSg0W71p9vfNHNkiioXNt)
 
-[Pancreatic Adenocarcinoma (PAAD)]()
+[Lung Adenocarcinoma (LUAD)](https://drive.google.com/open?id=1g8ue5rnVprssVFJxSjC_JSIoq9ipIiiY)
 
-[Prostate Adenocarcinoma (PRAD)]()
+[Ovarian Serous Cystadenocarcinoma (OV)](https://drive.google.com/open?id=1u7C2-XUQYZgnTbHY3f3RNecvnyxAVWg7)
 
-[Skin Cutaneous Melanoma (SKCM)]()
+[Pancreatic (Ductal) Adenocarcinoma (PAAD)](https://drive.google.com/open?id=1281RUkNFRKwoGXQWHQM4SKNbx73plzlu)
 
-[Stomach Adenocarcinoma (STAD)]()
+[Prostate Adenocarcinoma (PRAD)](https://drive.google.com/open?id=1ye3vaMWz1HDI5NlUJga-n6kam10zkIO5)
 
-[Testicular Cancer (TGCT)]()
+[Skin Cutaneous Melanoma (SKCM)](https://drive.google.com/open?id=1X7tx8ui-i1t7z-veQW99G-6ad_T3cRcQ)
 
-[Thyroid Cancer (THCA)]()
+[Stomach Adenocarcinoma (STAD)](https://drive.google.com/open?id=1UINqkgfS1g4-gc_EYVRPfmleeMrZqPyh)
 
-[Uterine Carcinosarcoma (UCS)]()
+[Testicular Cancer (TGCT)](https://drive.google.com/open?id=1IX0Tk8RAzqLzz-f3AtyIZ9ltmdxvTP1m)
+
+[Thyroid Cancer (THCA)](https://drive.google.com/open?id=1kbZ9HfRmhVfw05BLVNUymfvXjma5KAAC)
+
+[Uterine Carcinosarcoma (UCS)](https://drive.google.com/open?id=1dUYwQnoAdf4aPGATspyMq_UH9djGWg1_)
 
 
 
