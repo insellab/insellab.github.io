@@ -9,5 +9,38 @@ Input for EdgeR were curated files, containing gene-level RSEM estimated counts,
 
 The 'raw' download file linked above contains counts for all TCGA samples and genes together. We have provided curated files for each tumor type at [here](https://insellab.github.io/counts_files).
 
+  
+<br/><br/>
 
-GPCR expression data in CPM and TPM will be made available once our paper has completed peer-review.
+**GPCR expression in TPM**
+
+Each file contains expression in TPM for all endo-GPCRs in the respective tumor types, further divided into subtypes as applicable. For example, the esophageal cancer file provides expression for squamous cell carcinomas and adenocarcinomas as distinct groups. For each GPCR, expression is shown as median for the tumor subtype, as well as expression in each individual tumor sample.
+
+Certain samples highlighted in yellow were not included for other analyses (such as DE analysis) due to issues such as unclear metadata or classification into subtypes with very few (<10) replicates. These highlighted samples will therefore not appear in the accompanying files with GPCR expression in CPM.
+
+
+[Adrenocortical Cancer (ACC)]()
+
+[Bladder Cancer (BLCA)]()
+
+[Breast Cancer (BRCA)]()
+
+[Cervical Cancer (CESC)]()
+
+[Colon Cancer (COAD)]()
+
+[Esophageal Cancer (ESCA)]()
+
+[Kidney Chromophobe (KICH)]()
+
+
+
+
+
+
+
+
+
+
+
+
