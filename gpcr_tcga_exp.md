@@ -45,6 +45,26 @@ Certain samples highlighted in yellow were not included for other analyses (such
 
 [Ovarian Serous Cystadenocarcinoma (OV)]()
 
+[Pancreatic Adenocarcinoma (PAAD)]()
+
+[Prostate Adenocarcinoma (PRAD)]()
+
+[Skin Cutaneous Melanoma (SKCM)]()
+
+[Stomach Adenocarcinoma (STAD)]()
+
+[Testicular Cancer (TGCT)]()
+
+[Thyroid Cancer (THCA)]()
+
+[Uterine Carcinosarcoma (UCS)]()
+
+
+
+
+
+
+
 
 
 
