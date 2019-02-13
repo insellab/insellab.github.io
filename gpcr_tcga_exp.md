@@ -28,43 +28,43 @@ In addition, on the second sheet of each file is corresponding GPCR expression i
 Certain samples highlighted in yellow were not included for other analyses (such as DE analysis) due to issues such as unclear metadata or classification into subtypes with very few (<10) replicates. These highlighted samples will therefore not appear in the accompanying files with GPCR expression in CPM.
 
 
-[Adrenocortical Cancer (ACC)]()
+[Adrenocortical Cancer (ACC)](https://drive.google.com/open?id=1YarKNkX09wuPNgrDaOfXkasnNQA0NI6v)
 
-[Bladder Adenocarcinoma (BLCA)]()
+[Bladder Adenocarcinoma (BLCA)](https://drive.google.com/open?id=1ogCNNiBEabAk9A_ZNj-R2B2RZrpx1C9_)
 
-[Breast Adenocarcinoma (BRCA)]()
+[Breast Adenocarcinoma (BRCA)](https://drive.google.com/open?id=16KvS3Uch_esJWvKde_sE5mw8BONenRMb)
 
-[Cervical Cancer (CESC)]()
+[Cervical Cancer (CESC)](https://drive.google.com/open?id=1HV32oUw2qyitW8eaBCxJsS_6G3esbTcU)
 
-[Colon Adenocarcinoma (COAD)]()
+[Colon Adenocarcinoma (COAD)](https://drive.google.com/open?id=16lvg3lPb_0cz-927ElQKbq3ZUzam39Jb)
 
-[Esophageal Cancer (ESCA)]()
+[Esophageal Cancer (ESCA)](https://drive.google.com/open?id=1M2NcSMDtX-xXq5WUeNlYI1IUl11imc47)
 
-[Kidney Chromophobe (KICH)]()
+[Kidney Chromophobe (KICH)](https://drive.google.com/open?id=1c0gzYFKMaJ3A_DiCIVQg--7IpibPVV5s)
 
-[Kidney Clear Cell Carcinoma (KIRC)]()
+[Kidney Clear Cell Carcinoma (KIRC)](https://drive.google.com/open?id=1v9t1zKEP2g3gwjQV9X8SZCDEkD4vnU55)
 
-[Kidney Renal Papillary Cell Carcinoma (KIRP)]()
+[Kidney Renal Papillary Cell Carcinoma (KIRP)](https://drive.google.com/open?id=1TGSz0ZFUP2PHVGiSRZpZHvb-BSMQTaIO)
 
-[Liver Hepatocellular Carcinoma(LIHC)]()
+[Liver Hepatocellular Carcinoma (LIHC)](https://drive.google.com/open?id=14UY1q5tmWpN5eIWWcdxvUetBfW_EylJt)
 
-[Lung Squamous Cell Carcinoma and Adenocarcinoma (LUSC and LUAD)]()
+[Lung Squamous Cell Carcinoma and Adenocarcinoma (LUSC and LUAD)](https://drive.google.com/open?id=1voBqIwmARxx7BS8DQUpfPtpvuKwScz7K)
 
-[Ovarian Serous Cystadenocarcinoma (OV)]()
+[Ovarian Serous Cystadenocarcinoma (OV)](https://drive.google.com/open?id=1WJoqII00ksVFUJdrsi8OgxeJ2uxyGWmS)
 
-[Pancreatic Adenocarcinoma (PAAD)]()
+[Pancreatic Adenocarcinoma (PAAD)](https://drive.google.com/open?id=1AeTht9_e4w3yH5w6IY5AwvobWcAy45gm)
 
-[Prostate Adenocarcinoma (PRAD)]()
+[Prostate Adenocarcinoma (PRAD)](https://drive.google.com/open?id=1JQmbOpKDTJRokt0YI9eAIZv7cVj36Nia)
 
-[Skin Cutaneous Melanoma (SKCM)]()
+[Skin Cutaneous Melanoma (SKCM)](https://drive.google.com/open?id=1lxOOpHIOEPIY3tDzJrXl6I9ewUzqf3sn)
 
-[Stomach Adenocarcinoma (STAD)]()
+[Stomach Adenocarcinoma (STAD)](https://drive.google.com/open?id=1ySo-b_QwhCzRXGupY5QMm41jFvB2Vpzi)
 
-[Testicular Cancer (TGCT)]()
+[Testicular Cancer (TGCT)](https://drive.google.com/open?id=138-FBEU8nFP9PRDl22Zo-wEJFDezNXJ5)
 
-[Thyroid Cancer (THCA)]()
+[Thyroid Cancer (THCA)](https://drive.google.com/open?id=1foDzuL2I5K0KrVXIPAgS9P22tgwiv36Y)
 
-[Uterine Carcinosarcoma (UCS)]()
+[Uterine Carcinosarcoma (UCS)](https://drive.google.com/open?id=1YJwiOXCzYaXs_LgEff4AddBY1GRPNZtR)
 
 
 <br/><br/>
