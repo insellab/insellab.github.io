@@ -67,6 +67,10 @@ Certain samples highlighted in yellow were not included for other analyses (such
 [Uterine Carcinosarcoma (UCS)](https://drive.google.com/open?id=1YJwiOXCzYaXs_LgEff4AddBY1GRPNZtR)
 
 
+[Median Expression of all GPCRs in all TCGA tumor types in a single file]()
+
+[Median Expression of all GPCRs in all GTEX normal tissue types in a single file]()
+
 <br/><br/>
 
 
@@ -119,7 +123,9 @@ Each file contains GPCR expression in CPM for every GPCR gene in every sample, g
 
 
 
+[Median Expression of all GPCRs in all TCGA tumor types in a single file]()
 
+[Median Expression of all GPCRs in all GTEX normal tissue types in a single file]()
 
 
 
