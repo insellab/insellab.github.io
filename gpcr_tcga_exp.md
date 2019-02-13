@@ -11,11 +11,11 @@ The 'raw' download file linked above contains counts for all TCGA samples and ge
 
 ### **How to use the data below**
 
-Gene expression in TPM provides an estimate of the relevant abundance of *different genes within the same sample* or set of replicates. These data may be used for estimating which GPCR is highest expressed in a given tumor type/subtype and for ranking GPCRs based on magnitude of expression in a tumor type/subtype. 
+Gene expression in TPM provides an estimate of the relevant abundance of *different genes within the same sample* or set of replicates. These data may be used for estimating which GPCR is highest expressed in a given tumor type/subtype and for ranking GPCRs based on magnitude of expression in an individual sample or a specific tumor type/subtype. 
 
 Do not use expression in TPM for differential expression / fold change calculations and avoid using expression in TPM for any between-sample or between-group comparisons.
 
-Gene expression in CPM will allow comparison of expression of the *same gene across different samples*. Hence, if comparing expression between groups, performing survival analysis, cluster analysis etc., use the data in CPM. Do not use expression in CPM for ranking genes in terms of magnitude of expression. To estimate fold changes, use either the [fold-change calculations already provided](https://drive.google.com/open?id=1Fdps90G7j2A3vb24L3ikICADZ-7fIjiC) or re-analyze the data using [raw counts](https://insellab.github.io/counts_files) via edgeR.
+Gene expression in CPM will allow comparison of expression of the *same gene across different samples and groups*. Hence, if comparing expression between groups, performing survival analysis, cluster analysis etc., use the data in CPM. Do not use expression in CPM for ranking genes in terms of magnitude of expression. To estimate fold changes, use either the [fold-change calculations already provided](https://drive.google.com/open?id=1Fdps90G7j2A3vb24L3ikICADZ-7fIjiC) or re-analyze the data using the [raw counts](https://insellab.github.io/counts_files) via edgeR. 
   
 <br/><br/>
 
