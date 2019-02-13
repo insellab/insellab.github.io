@@ -12,26 +12,39 @@ The 'raw' download file linked above contains counts for all TCGA samples and ge
   
 <br/><br/>
 
-**GPCR expression in TPM**
+### **GPCR expression in TPM**
 
-Each file contains expression in TPM for all endo-GPCRs in the respective tumor types, further divided into subtypes as applicable. For example, the esophageal cancer file provides expression for squamous cell carcinomas and adenocarcinomas as distinct groups. For each GPCR, expression is shown as median for the tumor subtype, as well as expression in each individual tumor sample.
+Each file contains expression in TPM for all endo-GPCRs in the respective tumor types, further divided into subtypes as applicable. For example, the esophageal cancer file provides expression for squamous cell carcinomas and adenocarcinomas as distinct groups. For each GPCR, expression is shown as median for the tumor subtype, as well as expression in each individual tumor sample. Where applicable, data for (tumor-matched) normal samples are also shown. 
+
+In addition, on the second sheet of each file is corresponding GPCR expression in GTEX 'normal' samples.
 
 Certain samples highlighted in yellow were not included for other analyses (such as DE analysis) due to issues such as unclear metadata or classification into subtypes with very few (<10) replicates. These highlighted samples will therefore not appear in the accompanying files with GPCR expression in CPM.
 
 
 [Adrenocortical Cancer (ACC)]()
 
-[Bladder Cancer (BLCA)]()
+[Bladder Adenocarcinoma (BLCA)]()
 
-[Breast Cancer (BRCA)]()
+[Breast Adenocarcinoma (BRCA)]()
 
 [Cervical Cancer (CESC)]()
 
-[Colon Cancer (COAD)]()
+[Colon Adenocarcinoma (COAD)]()
 
 [Esophageal Cancer (ESCA)]()
 
 [Kidney Chromophobe (KICH)]()
+
+[Kidney Clear Cell Carcinoma (KIRC)]()
+
+[Kidney Renal Papillary Cell Carcinoma (KIRP)]()
+
+[Liver Hepatocellular Carcinoma(LIHC)]()
+
+[Lung Squamous Cell Carcinoma and Adenocarcinoma (LUSC and LUAD)]()
+
+[Ovarian Serous Cystadenocarcinoma (OV)]()
+
 
 
 
