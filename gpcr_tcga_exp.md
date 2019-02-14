@@ -19,7 +19,7 @@ Gene expression in CPM will allow comparison of expression of the *same gene acr
   
 <br/><br/>
 
-### **GPCR expression in TPM**
+### **GPCR expression in TPM (Transcripts per million)**
 
 Each file contains expression in TPM for all endo-GPCRs in the respective tumor types, further divided into subtypes as applicable. For example, the esophageal cancer file provides expression for squamous cell carcinomas and adenocarcinomas as distinct groups. For each GPCR, expression is shown as median for the tumor subtype, as well as expression in each individual tumor sample. Where applicable, data for (tumor-matched) normal samples are also shown. 
 
@@ -67,14 +67,14 @@ Certain samples highlighted in yellow were not included for other analyses (such
 [Uterine Carcinosarcoma (UCS)](https://drive.google.com/open?id=1YJwiOXCzYaXs_LgEff4AddBY1GRPNZtR)
 
 
-[Median Expression of all GPCRs in all TCGA tumor types in a single file]()
+[Median Expression (and upper and lower quartiles) of all GPCRs in all TCGA tumor sub-types in a single file](https://drive.google.com/open?id=1rS2_jS0EVe1U-68pOcuKTiuKCsn4O1AG)
 
-[Median Expression of all GPCRs in all GTEX normal tissue types in a single file]()
+[Median Expression (and upper and lower quartiles) of all GPCRs in all GTEX normal tissue types in a single file](https://drive.google.com/open?id=1ks8LOmmbngOolI1zgCm2K1ViJszDjbgT)
 
 <br/><br/>
 
 
-### **GPCR expression in CPM**
+### **GPCR expression in CPM (Counts per million)**
 
 Each file contains GPCR expression in CPM for every GPCR gene in every sample, grouped together based on tumor subtype or as normal samples. Median expression of GPCRs in tumor subtypes are also provided.
 
@@ -123,9 +123,9 @@ Each file contains GPCR expression in CPM for every GPCR gene in every sample, g
 
 
 
-[Median Expression of all GPCRs in all TCGA tumor types in a single file]()
+[Median Expression (and upper and lower quartiles) of all GPCRs in all TCGA tumor sub-types in a single file](https://drive.google.com/open?id=1gl2kjFuBc9QI0zQ4OlUK3fX2Ch_tuTsQ)
 
-[Median Expression of all GPCRs in all GTEX normal tissue types in a single file]()
+[Median Expression (and upper and lower quartiles) of all GPCRs in all GTEX normal tissue types in a single file](https://drive.google.com/open?id=1rGdMKoojmklmc5neb2yFy7FdPMPs1y_g)
 
 
 
