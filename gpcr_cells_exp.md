@@ -8,7 +8,8 @@ GPCR expression is quantified in FPKM, as downloaded from the [EBI Atlas](https:
 
 Data for [CCLE](https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2770/Results) is on sheet 10 and [Genentech](https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2706/Results) dataset on sheet 11 in [Supplement 3](https://drive.google.com/open?id=1ROW2FWvDYlP7w5n-qMR8KMapnjkD2Ta9).
 
-GPCR expression in cell lines from these data sets in TPM are below:
+
+**GPCR expression in cell lines from these data sets in TPM are below:
 
 [CCLE]()
 
