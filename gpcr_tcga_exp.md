@@ -72,8 +72,9 @@ Certain samples highlighted in yellow were not included for other analyses (such
 [Median Expression (and upper and lower quartiles) of all GPCRs in all GTEX normal tissue types in a single file](https://drive.google.com/open?id=1ks8LOmmbngOolI1zgCm2K1ViJszDjbgT)
 
 
+<img src="https://github.com/insellab/insellab.github.io/blob/master/GPCRexpressionPDAC.jpg" alt="plot" width="500" height="400"/>
 
-The same files as above, with ready-made plots comparing GPCR expression in TCGA tumors vs GTEX normal tissues can be found [here](https://drive.google.com/open?id=1ZqMa_eu8atpP3hxPT3F3yl9mNrgGL--T)
+The same files as above, with ready-made plots like the one shown above comparing GPCR expression in TCGA tumors vs GTEX normal tissues can be found [here](https://drive.google.com/open?id=1ZqMa_eu8atpP3hxPT3F3yl9mNrgGL--T)
 
 <br/><br/>
 
