@@ -14,9 +14,10 @@ These data were compiled from TCGA mutation data, hosted at ([https://xena.ucsc.
 
 In addition, a summarized version of these data can be found in [Supplement 2](https://drive.google.com/open?id=1ROW2FWvDYlP7w5n-qMR8KMapnjkD2Ta9).   
    
-
+In addition, analysis of GPCR mutations to identify potentially significant mutations, via MutSig2CV is provided below:
 **Mutsig2CV** [files can be downloaded here](https://drive.google.com/open?id=1La_YVOFuoEqsXvCsyItA9XrKuASxCK0Y)
 
+Analysis was performed by the Broad TCGA GDAC project and hosted at https://gdac.broadinstitute.org/, MutSig2CV results for each cancer type were downloaded from this source and results for GPCRs specifically were extracted and can be accessed in the files downloadable via the link above. If using these data from Broad TCGA GDAC, please refer https://confluence.broadinstitute.org/display/GDAC/FAQ#FAQ-citing for information about how to cite.
    
 
 ## 1. Tumors that possess Somatic Non-silent mutations
