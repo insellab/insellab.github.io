@@ -23,7 +23,7 @@ Gene expression in CPM will allow comparison of expression of the *same gene acr
 
 Download the spreadsheet in the link below; enter the GPCR gene symbol in the highlighted cell and plots will be produced showing median, upper and lower quartiles of expression of the queried GPCR in 45 tumor types/subtypes and corresponding normal tissue, normalized in CPM (counts per million). 
 
-https://drive.google.com/open?id=18Pjf6CTsmaYnoYL1RrmtS0waEoQeY8eN
+[https://drive.google.com/open?id=18Pjf6CTsmaYnoYL1RrmtS0waEoQeY8eN](https://drive.google.com/open?id=18Pjf6CTsmaYnoYL1RrmtS0waEoQeY8eN)
 
 <br/><br/>
 
