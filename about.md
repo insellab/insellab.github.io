@@ -13,7 +13,9 @@ layout: default
 (858) 534-2298; ksriram(at)ucsd.edu
 
 **Contributing Author**: *Kevin Moyung*, Undergraduate Researcher, Department of Biology at UC San Diego  
-kmoyung(at)ucsd.edu
+PhD Student at Duke University   
+kevin(dot)moyung(at)duke.edu
+
 
 **Contributing Author**: *Ross Corriden Ph.D.*, Project Scientist, Department of Pharmacology at UC San Diego  
 (858) 534-2298; rcorriden(at)ucsd.edu
