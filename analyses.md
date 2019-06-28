@@ -1,7 +1,28 @@
-## Supplemental Analyses
+## Additional Analyses
 
-This page contains various analyses performed to supplement our findings in the study. All scripts used in these analyses are included. 
 
-### Fisher's Exact Test
+### GPCR coupling
 
-*Under Construction*
+The file below contains quantification of the number of GPCRs in each tissue type or tumor that couple to different classes of G-alpha G proteins. Also included are expression weighted quantifications of the same, plus the total number of GPCRs present at different expression thresholds. 
+
+[LINK](https://insellab.github.io/counts_files)
+
+### GPCR coupling worksheet
+
+Use the link below to download a file into which you can paste a list of GPCRs and obtain quantifications of the number of those GPCRs that couple to each G-alpha G protein. Will also yield an expression-weighted version of this coupling calculation. 
+
+[LINK](https://insellab.github.io/counts_files)
+
+### Impact of GPCR expression on survival
+
+Use the link below to download a file into which you can paste a list of GPCRs and obtain quantifications of the number of those GPCRs that couple to each G-alpha G protein. Will also calculate expression weighted versions of this 
+
+[LINK](https://insellab.github.io/counts_files)
+
+### Survival analysis with older patients excluded
+
+For tumors with large number of replicates, the same analysis as above, but with exclusion of patients >75 years old at time of diagnosis as per TCGA metadata.
+
+[LINK](https://insellab.github.io/counts_files)
+
+
