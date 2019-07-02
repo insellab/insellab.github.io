@@ -26,3 +26,16 @@ For tumors with large number of replicates, the same analysis as above, but with
 [LINK](_____)
 
 
+### Phylogenetic trees
+
+From figure 4 of our updated manuscript, a phylogenetic fan plot showing different clusters of GPCRs in solid tumors, based on their median expression in TPM in each of 45 tumor types/subtypes.
+
+[LINK](https://drive.google.com/open?id=1Vs_K4LfDcE76vcKk8UO0dFBUFNAh8ZH7)
+
+From figure S1,  a phylogenetic fan plot showing different clusters of GPCRs in solid tumors, based on their fold change over corresponding normal tissue, in each of 45 tumor types/subtypes.
+
+[LINK](https://drive.google.com/open?id=1Te3Ha8rMzo1KQDT_jHkG6ZYlzvmBJiMX)
+
+
+
+
