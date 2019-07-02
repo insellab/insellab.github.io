@@ -30,7 +30,7 @@ Tabulation of which tumor types we have studied, with number of replicates. Also
 
 [GPCR mutations in tumors](https://insellab.github.io/gpcr_mutations) 
 
-Status (whether mutated or not, indicated as a 1 or 0) for each GPCR in each TCGA sample, in each TCGA tumor type. Also provided are breakdowns of number and types of mutational events across these samples.
+Status (whether mutated or not, indicated as a 1 or 0) for each GPCR in each TCGA sample, in each TCGA tumor type. Also provided are breakdowns of number and types of mutational events across these samples. MutSig2CV results from Broad GDAC for GPCRs are also provided.
 
 [GPCR CNV in tumors](https://insellab.github.io/gpcr_cnv) 
 
