@@ -42,5 +42,7 @@ GPCR expression in TPM and CPM units for each GPCR in each GTEX sample, in each 
 
 GPCR expression in TPM and CPM units for each GPCR in each GTEX sample, in each normal GTEX tissue type. 
 
+[Survival analysis, G protein coupling and phylogenetic trees](https://insellab.github.io/analyses) 
+
 Questions regarding datasets etc should be directed to website admin at *insellabgpcrsincancer1[AT]gmail.com* and will be addressed asap by either Krishna or Kevin.
 
