@@ -119,3 +119,18 @@ Each file contains 3 worksheets.
 [Thyroid Cancer](https://drive.google.com/open?id=0ByccgsfmD86PN2J4Z0pmWkpSZnM)
 
 [Uterine Carcinosarcoma](https://drive.google.com/open?id=0ByccgsfmD86PU3FFeENsUS1vMGM)
+
+
+
+
+#
+
+## 3. MutSig2CV results on GPCR mutations
+
+Results were downloaded from the Broad GDAC portal https://gdac.broadinstitute.org/
+
+Data for GPCRs aspecifically are at the top of each file, sorted by gene name.
+
+[Download files for all major tumor types here](https://drive.google.com/open?id=1fAlg3Yos-ArBgNH0VynEn3qyLTW-815t)
+
+
