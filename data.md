@@ -53,6 +53,36 @@ The numerical values used to generate several key plots in our manuscript can be
 [Figure 10A-C](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
 [Figure 10D-F](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
 
+[Figure 11](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+
+[Figure 12](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+
+[Figure 13](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+
+[Figure S3B-C](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure S3D-F]
+[Figure S3G-I]
+[Figure S3J]
+
+[Figure S4A]
+
+[Figure S5D]
+
+[Figure S6G-H]
+
+[Figure S7]
+
+[Figure S8 A-D]
+[Figure S8 E-G]
+
+[Figure S10]
+
+[Figure S11]
+
+[Figure S12]
+
+[Figure S13]
+
 
 
 
