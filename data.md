@@ -25,5 +25,37 @@ This list includes synonyms for Hg19, used for TCGA mutation analysis, and for C
 [Supplement 3](https://drive.google.com/open?id=1Fdps90G7j2A3vb24L3ikICADZ-7fIjiC) contains a master file showing fold changes and magnitude of expression of GPCRs in various tumors, corresponding expression in normal tissue and GPCR expression in cancer cell lines, from the [CCLE](https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2770/Results) and [Genentech](https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2706/Results) studies hosted at the [EBI expression atlas](https://www.ebi.ac.uk/gxa/home).
 
 
+* * *
+
+### Data for specific plots in our paper
+
+The numerical values used to generate several key plots in our manuscript can be downloaded below.
+
+[Figure 3A;](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 3B;](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 3C;](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 3D-F](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+
+[Figure 6B;](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 6C;](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 6D;](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 6E;](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 6F](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+
+[Figure 7A-E](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 7G-J](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+
+[Figure 8A-B](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+
+[Figure 9C](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 9D-E](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+
+[Figure 10A-C](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 10D-F](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+
+
+
+
+* * *
 
 [back](./)
