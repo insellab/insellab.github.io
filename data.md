@@ -48,7 +48,6 @@ The numerical values used to generate several key plots in our manuscript can be
 
 [Figure 8A-B](https://drive.google.com/open?id=1-UiF7dPoJCpkWfti3nKkoJK6WlldMkdQ)
 
-[Figure 9C](https://drive.google.com/open?id=1s2c-m8IegY-jQcspizlu46mN0kp6JhfS)
 [Figure 9D-E](https://drive.google.com/open?id=15ii02x6eVy4kd1kbzPN2ZQsDH7Io3lQ9)
 
 [Figure 10A-B](https://drive.google.com/open?id=1ur8x5sZCGdizUDesHweM7q4yNPnkYNts)
@@ -60,6 +59,7 @@ The numerical values used to generate several key plots in our manuscript can be
 [Figure 11E](https://drive.google.com/open?id=1mzX2mHSAXRoW8yvXqD-V4fu5YTCcwTHu)
 [Figure 11F](https://drive.google.com/open?id=1KIHNGgNS9crhYs8fbD0SYZwOHgK_YHUM)
 [Figure 11G](https://drive.google.com/open?id=1EoJCb42icRdvVuu0-4DRFU6hRRvCd9MH)
+[Figure 11H](https://drive.google.com/open?id=1id_RxMdFLPzE5L1i1p9rD1NlCkMTGeXu)
 [Figure 11I](https://drive.google.com/open?id=1q2Zx9paUzk4jMUAVdf6C1aXY6CfZASYl)
 
 
@@ -76,29 +76,37 @@ The numerical values used to generate several key plots in our manuscript can be
 [Figure S1 B D and F](https://drive.google.com/open?id=1bGzG9Y-DMG3NhgeNYqUOQE3JlRIj-HYY)
 
 
-[Figure S3B-C](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
-[Figure S3D-F]
-[Figure S3G-I]
-[Figure S3J]
+[Figure S3D-F](https://drive.google.com/open?id=1UymU9tGAlRkZ6Njaq1V_WH6rCHM6Sx-i)
+[Figure S3G-I](https://drive.google.com/open?id=1OAItAn-S-wDPmdXbQjZifBNu-bYaKLXU)
+[Figure S3J](https://drive.google.com/open?id=1buNUSo6l8DwPPrdlSKY0XCRasCehLwqc)
 
-[Figure S4A]
+[Figure S4A](https://drive.google.com/open?id=1MzVKTr7aGz--c7uglEM1fH4APkEtcxA-)
 
-[Figure S5D]
+[Figure S5D](https://drive.google.com/open?id=1YJgIAFIjeWkcnycZT708VXknqI_BKcxN)
 
-[Figure S6G-H]
+[Figure S6G-H; SKCM cell lines and tumors](https://drive.google.com/open?id=1-KmoVfG_-SB2h-rYE8yIQrImaQwOtII1)
 
-[Figure S7]
+[Figure S7](https://drive.google.com/open?id=1uIRfyeAqoyKNbePe3YR6C8WLRHPpZwoU)
 
-[Figure S8 A-D]
-[Figure S8 E-G]
+[Figure S8 A, C and D](https://drive.google.com/open?id=1TVkt3cWu1n57Cw5Nks28grMtk0sGizHX)
+[Figure S8B](https://drive.google.com/open?id=1UpePD8CIdBqdkm-_734tra_B-oL9GfYf)
+[Figure S8E-F](https://drive.google.com/open?id=1idAVShGcEZwrH2-IVSRNLamc2ctOJv_-)
 
-[Figure S10]
 
-[Figure S11]
+[Figure S9C](https://drive.google.com/open?id=1s2c-m8IegY-jQcspizlu46mN0kp6JhfS)
+[Figure S9D](https://drive.google.com/open?id=1odj9chQf6sHbKlNYNlSypcfuRtnGHDWt)
+[Figure S9E-F](https://drive.google.com/open?id=1plZOSRM9YLY_SHLUj5a4QeLOGDEgzHjQ)
+[Figure S9G-H](https://drive.google.com/open?id=1cxjsLx_JnQOAsKiFICQHbaJpGeq9UsOm)
 
-[Figure S12]
 
-[Figure S13]
+[Figure S10A-D](https://drive.google.com/open?id=12F3FU8soDiH6YsUwFENfsbWMR018D0Cx)
+
+
+[Figure S12A-B](https://drive.google.com/open?id=1ArolGmpsyPj1kC6VYaqCyh4snO45cymu)
+[Figure S12C-D](https://drive.google.com/open?id=1HoxfT-rkSU0o9eBUZcp12IcNmMZGTDft)
+
+
+[Figure S13, batch corrected and uncorrected CPM expression data in a zip file](https://drive.google.com/open?id=1uX6bRGJ9ZnWiVTZsx1RQPHxQCD4BazjO)
 
 
 
