@@ -31,33 +31,50 @@ This list includes synonyms for Hg19, used for TCGA mutation analysis, and for C
 
 The numerical values used to generate several key plots in our manuscript can be downloaded below.
 
-[Figure 3A;](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
-[Figure 3B;](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
-[Figure 3C;](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
-[Figure 3D-F](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 3B;](https://drive.google.com/open?id=1vYwGU4kaLT6wGLAdhiR3hdiEFPwwgmWn)
+[Figure 3C;](https://drive.google.com/open?id=1_tOccjeEF-tYHzLSwDhW8zGjq4pMD74P)
+[Figure 3D-F](https://drive.google.com/open?id=1xHfpipkowuRRep-digO02ozcCvKSmGpk)
 
-[Figure 6B;](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
-[Figure 6C;](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
-[Figure 6D;](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
-[Figure 6E;](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
-[Figure 6F](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 6B;](https://drive.google.com/open?id=1TFUbcG3a0LbO-MrjHqRSgU9IJpGOkSdz)
+[Figure 6C;](https://drive.google.com/open?id=18tNIVzbjr8PvsIpkGdtFws9DTg2Xkmk6)
+[Figure 6D;](https://drive.google.com/open?id=1e7jlmYlvIcydQxLkeeo3UGraBB88OhJp)
+[Figure 6F-G](https://drive.google.com/open?id=1DCd3S0ZAs8-HgTVA4qZcsP_3WhnjU4rC)
 
-[Figure 7A-E](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
-[Figure 7G-J](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 7A-B](https://drive.google.com/open?id=1P9tB_NfFYRpu6_ChKhr8N6rTdnpvSgRH)
+[Figure 7C](https://drive.google.com/open?id=16exyQECnLp_poXAPPKi8N0oqduATBEgw)
+[Figure 7D](https://drive.google.com/open?id=1NfYb7CgzAkva4R4b0EtQxRXmseTwl7fk)
+[Figure 7E](https://drive.google.com/open?id=1mXeptaFkaUcx7UNgCeqVcWyT1LVJU-vF)
+[Figure 7G-J](https://drive.google.com/open?id=1aW-8TGJvsutOsjpaic-gRH55wIH6-hdS)
 
-[Figure 8A-B](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 8A-B](https://drive.google.com/open?id=1-UiF7dPoJCpkWfti3nKkoJK6WlldMkdQ)
 
-[Figure 9C](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
-[Figure 9D-E](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 9C](https://drive.google.com/open?id=1s2c-m8IegY-jQcspizlu46mN0kp6JhfS)
+[Figure 9D-E](https://drive.google.com/open?id=15ii02x6eVy4kd1kbzPN2ZQsDH7Io3lQ9)
 
-[Figure 10A-C](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
-[Figure 10D-F](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 10A-B](https://drive.google.com/open?id=1ur8x5sZCGdizUDesHweM7q4yNPnkYNts)
+[Figure 10C](https://drive.google.com/open?id=1ubMRmDOMwZp5QAuQCfp7h_OvdzoC91iP)
 
-[Figure 11](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 11A and C](https://drive.google.com/open?id=1NpzsQoAIb-MvPIx6Q0hoz3v2ojTQekfJ)
+[Figure 11B](https://drive.google.com/open?id=1eB0GvcTGlQHGtaw88Jks5mHydSFOhQXe)
+[Figure 11D](https://drive.google.com/open?id=16QH_3IkK-1xyYtrJMIVlwFpm2kYCEOCR)
+[Figure 11E](https://drive.google.com/open?id=1mzX2mHSAXRoW8yvXqD-V4fu5YTCcwTHu)
+[Figure 11F](https://drive.google.com/open?id=1KIHNGgNS9crhYs8fbD0SYZwOHgK_YHUM)
+[Figure 11G](https://drive.google.com/open?id=1EoJCb42icRdvVuu0-4DRFU6hRRvCd9MH)
+[Figure 11I](https://drive.google.com/open?id=1q2Zx9paUzk4jMUAVdf6C1aXY6CfZASYl)
 
-[Figure 12](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
 
-[Figure 13](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
+[Figure 12A-B](https://drive.google.com/open?id=1dGFu21MrYh_tnD53-RFeno08G1Lr3mg1)
+[Figure 12C-D](https://drive.google.com/open?id=1_sGBQ74fkvC_taLRK9WABTZfalZ-ozcJ)
+
+
+[Figure 13A-D](https://drive.google.com/open?id=1SVrM71YZpXeRolFHI1Mj53YUo2-LYOLv)
+[Figure 13E-F](https://drive.google.com/open?id=1e0_kFFt6IhDVgDnt20T27weCPwi5XUwK)
+[Figure 13G-H](https://drive.google.com/open?id=1Ntj2iEN6tVl7ZDnjsSW303ZbXpe5EYbS)
+[Figure 13I-J](https://drive.google.com/open?id=1Spba20tE6O42gxQtz0C8-oyTne1FXCyP)
+
+
+[Figure S1 B D and F](https://drive.google.com/open?id=1bGzG9Y-DMG3NhgeNYqUOQE3JlRIj-HYY)
+
 
 [Figure S3B-C](https://drive.google.com/open?id=1mMQULxIEv6fq4NROEH0sv5gQKPZVvpQy)
 [Figure S3D-F]
