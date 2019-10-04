@@ -41,44 +41,47 @@ The numerical values used to generate several key plots in our manuscript can be
 [Figure 6D;](https://drive.google.com/open?id=1e7jlmYlvIcydQxLkeeo3UGraBB88OhJp)
 [Figure 6F-G](https://drive.google.com/open?id=1DCd3S0ZAs8-HgTVA4qZcsP_3WhnjU4rC)
 
-[Figure 7A-B](https://drive.google.com/open?id=1P9tB_NfFYRpu6_ChKhr8N6rTdnpvSgRH)
-[Figure 7C](https://drive.google.com/open?id=16exyQECnLp_poXAPPKi8N0oqduATBEgw)
-[Figure 7D](https://drive.google.com/open?id=1NfYb7CgzAkva4R4b0EtQxRXmseTwl7fk)
-[Figure 7E](https://drive.google.com/open?id=1mXeptaFkaUcx7UNgCeqVcWyT1LVJU-vF)
+[Figure 7A-B;](https://drive.google.com/open?id=1P9tB_NfFYRpu6_ChKhr8N6rTdnpvSgRH)
+[Figure 7C;](https://drive.google.com/open?id=16exyQECnLp_poXAPPKi8N0oqduATBEgw)
+[Figure 7D;](https://drive.google.com/open?id=1NfYb7CgzAkva4R4b0EtQxRXmseTwl7fk)
+[Figure 7E;](https://drive.google.com/open?id=1mXeptaFkaUcx7UNgCeqVcWyT1LVJU-vF)
 [Figure 7G-J](https://drive.google.com/open?id=1aW-8TGJvsutOsjpaic-gRH55wIH6-hdS)
 
 [Figure 8A-B](https://drive.google.com/open?id=1-UiF7dPoJCpkWfti3nKkoJK6WlldMkdQ)
 
 [Figure 9D-E](https://drive.google.com/open?id=15ii02x6eVy4kd1kbzPN2ZQsDH7Io3lQ9)
 
-[Figure 10A-B](https://drive.google.com/open?id=1ur8x5sZCGdizUDesHweM7q4yNPnkYNts)
+[Figure 10A-B;](https://drive.google.com/open?id=1ur8x5sZCGdizUDesHweM7q4yNPnkYNts)
 [Figure 10C](https://drive.google.com/open?id=1ubMRmDOMwZp5QAuQCfp7h_OvdzoC91iP)
 
-[Figure 11A and C](https://drive.google.com/open?id=1NpzsQoAIb-MvPIx6Q0hoz3v2ojTQekfJ)
-[Figure 11B](https://drive.google.com/open?id=1eB0GvcTGlQHGtaw88Jks5mHydSFOhQXe)
-[Figure 11D](https://drive.google.com/open?id=16QH_3IkK-1xyYtrJMIVlwFpm2kYCEOCR)
-[Figure 11E](https://drive.google.com/open?id=1mzX2mHSAXRoW8yvXqD-V4fu5YTCcwTHu)
-[Figure 11F](https://drive.google.com/open?id=1KIHNGgNS9crhYs8fbD0SYZwOHgK_YHUM)
-[Figure 11G](https://drive.google.com/open?id=1EoJCb42icRdvVuu0-4DRFU6hRRvCd9MH)
-[Figure 11H](https://drive.google.com/open?id=1id_RxMdFLPzE5L1i1p9rD1NlCkMTGeXu)
+[Figure 11A and C;](https://drive.google.com/open?id=1NpzsQoAIb-MvPIx6Q0hoz3v2ojTQekfJ)
+[Figure 11B;](https://drive.google.com/open?id=1eB0GvcTGlQHGtaw88Jks5mHydSFOhQXe)
+[Figure 11D;](https://drive.google.com/open?id=16QH_3IkK-1xyYtrJMIVlwFpm2kYCEOCR)
+[Figure 11E;](https://drive.google.com/open?id=1mzX2mHSAXRoW8yvXqD-V4fu5YTCcwTHu)
+[Figure 11F;](https://drive.google.com/open?id=1KIHNGgNS9crhYs8fbD0SYZwOHgK_YHUM)
+[Figure 11G;](https://drive.google.com/open?id=1EoJCb42icRdvVuu0-4DRFU6hRRvCd9MH)
+[Figure 11H;](https://drive.google.com/open?id=1id_RxMdFLPzE5L1i1p9rD1NlCkMTGeXu)
 [Figure 11I](https://drive.google.com/open?id=1q2Zx9paUzk4jMUAVdf6C1aXY6CfZASYl)
 
 
-[Figure 12A-B](https://drive.google.com/open?id=1dGFu21MrYh_tnD53-RFeno08G1Lr3mg1)
+[Figure 12A-B;](https://drive.google.com/open?id=1dGFu21MrYh_tnD53-RFeno08G1Lr3mg1)
 [Figure 12C-D](https://drive.google.com/open?id=1_sGBQ74fkvC_taLRK9WABTZfalZ-ozcJ)
 
 
-[Figure 13A-D](https://drive.google.com/open?id=1SVrM71YZpXeRolFHI1Mj53YUo2-LYOLv)
-[Figure 13E-F](https://drive.google.com/open?id=1e0_kFFt6IhDVgDnt20T27weCPwi5XUwK)
-[Figure 13G-H](https://drive.google.com/open?id=1Ntj2iEN6tVl7ZDnjsSW303ZbXpe5EYbS)
+[Figure 13A-D;](https://drive.google.com/open?id=1SVrM71YZpXeRolFHI1Mj53YUo2-LYOLv)
+[Figure 13E-F;](https://drive.google.com/open?id=1e0_kFFt6IhDVgDnt20T27weCPwi5XUwK)
+[Figure 13G-H;](https://drive.google.com/open?id=1Ntj2iEN6tVl7ZDnjsSW303ZbXpe5EYbS)
 [Figure 13I-J](https://drive.google.com/open?id=1Spba20tE6O42gxQtz0C8-oyTne1FXCyP)
+
+
+* * *
 
 
 [Figure S1 B D and F](https://drive.google.com/open?id=1bGzG9Y-DMG3NhgeNYqUOQE3JlRIj-HYY)
 
 
-[Figure S3D-F](https://drive.google.com/open?id=1UymU9tGAlRkZ6Njaq1V_WH6rCHM6Sx-i)
-[Figure S3G-I](https://drive.google.com/open?id=1OAItAn-S-wDPmdXbQjZifBNu-bYaKLXU)
+[Figure S3D-F;](https://drive.google.com/open?id=1UymU9tGAlRkZ6Njaq1V_WH6rCHM6Sx-i)
+[Figure S3G-I;](https://drive.google.com/open?id=1OAItAn-S-wDPmdXbQjZifBNu-bYaKLXU)
 [Figure S3J](https://drive.google.com/open?id=1buNUSo6l8DwPPrdlSKY0XCRasCehLwqc)
 
 [Figure S4A](https://drive.google.com/open?id=1MzVKTr7aGz--c7uglEM1fH4APkEtcxA-)
@@ -89,21 +92,21 @@ The numerical values used to generate several key plots in our manuscript can be
 
 [Figure S7](https://drive.google.com/open?id=1uIRfyeAqoyKNbePe3YR6C8WLRHPpZwoU)
 
-[Figure S8 A, C and D](https://drive.google.com/open?id=1TVkt3cWu1n57Cw5Nks28grMtk0sGizHX)
-[Figure S8B](https://drive.google.com/open?id=1UpePD8CIdBqdkm-_734tra_B-oL9GfYf)
+[Figure S8 A, C and D;](https://drive.google.com/open?id=1TVkt3cWu1n57Cw5Nks28grMtk0sGizHX)
+[Figure S8B;](https://drive.google.com/open?id=1UpePD8CIdBqdkm-_734tra_B-oL9GfYf)
 [Figure S8E-F](https://drive.google.com/open?id=1idAVShGcEZwrH2-IVSRNLamc2ctOJv_-)
 
 
-[Figure S9C](https://drive.google.com/open?id=1s2c-m8IegY-jQcspizlu46mN0kp6JhfS)
-[Figure S9D](https://drive.google.com/open?id=1odj9chQf6sHbKlNYNlSypcfuRtnGHDWt)
-[Figure S9E-F](https://drive.google.com/open?id=1plZOSRM9YLY_SHLUj5a4QeLOGDEgzHjQ)
+[Figure S9C;](https://drive.google.com/open?id=1s2c-m8IegY-jQcspizlu46mN0kp6JhfS)
+[Figure S9D;](https://drive.google.com/open?id=1odj9chQf6sHbKlNYNlSypcfuRtnGHDWt)
+[Figure S9E-F;](https://drive.google.com/open?id=1plZOSRM9YLY_SHLUj5a4QeLOGDEgzHjQ)
 [Figure S9G-H](https://drive.google.com/open?id=1cxjsLx_JnQOAsKiFICQHbaJpGeq9UsOm)
 
 
 [Figure S10A-D](https://drive.google.com/open?id=12F3FU8soDiH6YsUwFENfsbWMR018D0Cx)
 
 
-[Figure S12A-B](https://drive.google.com/open?id=1ArolGmpsyPj1kC6VYaqCyh4snO45cymu)
+[Figure S12A-B;](https://drive.google.com/open?id=1ArolGmpsyPj1kC6VYaqCyh4snO45cymu)
 [Figure S12C-D](https://drive.google.com/open?id=1HoxfT-rkSU0o9eBUZcp12IcNmMZGTDft)
 
 
