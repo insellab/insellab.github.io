@@ -15,15 +15,18 @@ Use the link below to download a file into which you can paste a list of GPCRs a
 
 ### Impact of GPCR expression on survival
 
-Use the link below to download a file into which you can paste a list of GPCRs and obtain quantifications of the number of those GPCRs that couple to each G-alpha G protein. Will also calculate expression weighted versions of this 
+Use the link below to download a file with the impact GPCRs have on survival, for a range of tumor types. 
 
 [LINK](https://drive.google.com/open?id=1NWHusecQNIYViYpAOKGcw1YwxUgQsDcE)
 
-### Survival analysis with older patients excluded
 
-For tumors with large number of replicates, the same analysis as above, but with exclusion of patients >75 years old at time of diagnosis as per TCGA metadata.
 
-[LINK](_____)
+<!--- ### Survival analysis with older patients excluded-->
+
+<!---For tumors with large number of replicates, the same analysis as above, but with exclusion of patients >75 years old at time of diagnosis as per TCGA metadata.-->
+
+<!---[LINK](_____)-->
+
 
 
 ### Phylogenetic trees
