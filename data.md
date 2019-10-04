@@ -31,6 +31,7 @@ This list includes synonyms for Hg19, used for TCGA mutation analysis, and for C
 
 The numerical values used to generate several key plots in our manuscript can be downloaded below.
 
+[Figure 3A;](https://drive.google.com/open?id=13MsONb1vp8lOzWjXhzzIPcbRjRtj4Qnj)
 [Figure 3B;](https://drive.google.com/open?id=1vYwGU4kaLT6wGLAdhiR3hdiEFPwwgmWn)
 [Figure 3C;](https://drive.google.com/open?id=1_tOccjeEF-tYHzLSwDhW8zGjq4pMD74P)
 [Figure 3D-F](https://drive.google.com/open?id=1xHfpipkowuRRep-digO02ozcCvKSmGpk)
