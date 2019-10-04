@@ -90,6 +90,8 @@ The numerical values used to generate several key plots in our manuscript can be
 
 [Figure S6G-H; SKCM cell lines and tumors](https://drive.google.com/open?id=1-KmoVfG_-SB2h-rYE8yIQrImaQwOtII1)
 
+[Figure S6G-H; Data from Reeman et al., 2017 for RNA-seq on melanocytes](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94655)
+
 [Figure S7](https://drive.google.com/open?id=1uIRfyeAqoyKNbePe3YR6C8WLRHPpZwoU)
 
 [Figure S8 A, C and D;](https://drive.google.com/open?id=1TVkt3cWu1n57Cw5Nks28grMtk0sGizHX)
