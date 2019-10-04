@@ -40,5 +40,9 @@ From figure S2,  a phylogenetic fan plot showing different clusters of GPCRs in 
 [LINK](https://drive.google.com/open?id=1Te3Ha8rMzo1KQDT_jHkG6ZYlzvmBJiMX)
 
 
+### STRING network figure 6A from our manuscript
 
+Download a high-res version of the figure in a pwerpoint slide using the link below.
+
+[LINK](https://drive.google.com/open?id=18MU3xSjVZ-DljTdi62kOxjZAYXeKc55L)
 
