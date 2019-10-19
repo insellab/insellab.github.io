@@ -92,6 +92,7 @@ The numerical values used to generate several key plots in our manuscript can be
 [Figure S5D](https://drive.google.com/open?id=1YJgIAFIjeWkcnycZT708VXknqI_BKcxN)
 
 
+[Figure S6A-F](https://drive.google.com/open?id=1cddSh1H8XiGsWIh6DRF1mW5A9GvKyVQ8)
 
 [Figure S6G-H; SKCM cell lines and tumors](https://drive.google.com/open?id=1-KmoVfG_-SB2h-rYE8yIQrImaQwOtII1)
 
