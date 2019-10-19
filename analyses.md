@@ -19,6 +19,11 @@ Use the link below to download a file with the impact GPCRs have on survival, fo
 
 [LINK](https://drive.google.com/open?id=1NWHusecQNIYViYpAOKGcw1YwxUgQsDcE)
 
+The input metadata and GPCR expression in CPM used to computes these values, plus the R code to generate these survival results, can be found here:
+
+[LINK](https://drive.google.com/open?id=1MjWyNKKNJp25KDgITKNbgSwIqF00D3lC)
+
+
 
 
 <!--- ### Survival analysis with older patients excluded-->
