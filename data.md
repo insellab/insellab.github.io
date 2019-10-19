@@ -110,7 +110,7 @@ The numerical values used to generate several key plots in our manuscript can be
 
 [Figure S12A-B;](https://drive.google.com/open?id=1ArolGmpsyPj1kC6VYaqCyh4snO45cymu)
 [Figure S12C-D](https://drive.google.com/open?id=1HoxfT-rkSU0o9eBUZcp12IcNmMZGTDft)
-
+[Figure S12E-F](https://drive.google.com/open?id=1Zmm4u1DKLm-RzCMkvsCcUjpt3nvRh6aV)
 
 [Figure S13, batch corrected and uncorrected CPM expression data in a zip file](https://drive.google.com/open?id=1uX6bRGJ9ZnWiVTZsx1RQPHxQCD4BazjO)
 
